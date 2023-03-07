@@ -1,6 +1,6 @@
 - Hello! on here I go by @jp-valino, but my real name is João Pedro.
-- Interested in full-stack coding, web-development, AI and ML
-- I’m currently learning Python, Java, R and Javascript as my first contact points to programming and have been loving doing so thus far!
+- Interested in full-stack development, AI and ML
+- I am currently learning Python, Java, R and Javascript as my first contact points to programming and have been loving doing so thus far!
 - Reach me: e-mail at joaopvalino@gmail.com
 
 <!---
