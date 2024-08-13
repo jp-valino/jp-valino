@@ -1,7 +1,7 @@
 # Hello!
 - Hello! on here I go by @jp-valino, but my real name is João Pedro.
 - Interested in full-stack development, Data Science and ML
-- Reach me: e-mail at joaopvalino@gmail.com
+- Reach me: e-mail at joaopvalino@gmail.com or jp@bigspin.dev
 
 <!---
 jp-valino/jp-valino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
