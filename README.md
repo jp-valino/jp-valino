@@ -1,9 +1,10 @@
-# Hello!
-- Hello! on here I go by @jp-valino, but my real name is João Pedro.
-- Interested in full-stack development, Data Science and ML
-- Reach me: e-mail at joaopvalino@gmail.com or jp@bigspin.dev
+# Hello,
+$\oint$ Brazilian student currently completing a Combined Major in Mathematical and Computational Sciences at the University of British Columbia in Vancouver, BC.
 
-<!---
-jp-valino/jp-valino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+$\oint$ Interested in Data Science, Mathematics and ML, and specifically interested in applications of Machine Learning and AI to macroeconomic analysis and forecasting, as well as to the financial market more broadly.
+
+$\oint$ Also interested in Software Engineering and Web Development.
+
+$\oint$ Related projects currently being worked on.
+
+*Reach me:* e-mail @joaopvalino@gmail.com or [LinkedIn](www.linkedin.com/in/joaopvalino/)
