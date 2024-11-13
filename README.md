@@ -7,4 +7,4 @@ $\oint$ Also interested in Software Engineering and Web Development.
 
 $\oint$ Related projects currently being worked on.
 
-*Reach me:* e-mail @joaopvalino@gmail.com or [LinkedIn](www.linkedin.com/in/joaopvalino/)
+*Reach me:* e-mail @joaopvalino@gmail.com
